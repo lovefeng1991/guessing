@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>猜数字游戏</title>
+<title>猜数字</title>
 <script type="text/javascript">
 	/* 添加事件函数 */
 	function addEvent(element, eventType, handler) {
